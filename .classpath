@@ -34,7 +34,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/IO"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaxEncryption"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JFreeChart"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/apacheHttpComponents"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json-simple-1.1"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ee.minimum-1.0.0"/>
 	<classpathentry kind="output" path="target/classes"/>
